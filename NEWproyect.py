@@ -18,7 +18,7 @@ with tab1:
     st.markdown('* *Datos de la encuesta realizada [aquí](https://docs.google.com/forms/d/e/1FAIpQLSer8lv3Zz6xgbqq6EU5sxkpDhWzxAsXqOwmXI9VR7B4-7YsRQ/viewform?usp=sf_link)*')
 
 with tab2:
-    st.image("https://raw.githubusercontent.com/yuliakarla05/GYM/main/De Matanzas a La Habana.png", width=705)
+    st.image("https://raw.githubusercontent.com/yuliakarla05/MTZemigration/main/De Matanzas a La Habana.png", width=705)
 
     st.write("Las circunstancias de la vida me obligaron a emigrar de mi provincia natal, Matanzas, la Atenas de Cuba. Dejé en uno de sus municipios, Cárdenas, memorables recuerdos que sin duda me marcarán por el resto de mi vida, para adentrarme en La Habana, descrita por mi como “otro mundo”, que al llegar por primera vez te envuelve entre sus garras, con sus altos e históricos edificios, la inmensa cantidad de gente, y el ruido de los carros a toda hora. Situaciones a las que un matancero no se acostumbra tan fácil.")
 
