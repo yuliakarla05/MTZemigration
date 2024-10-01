@@ -1,0 +1,72 @@
+{
+"mig_INT_2013":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],											
+
+"mtz_2013":["2 738","40","109","693","187","0","350","171","122","116","174","96","180","198","156","115","31"],
+"hombres_2013":["1 406","20","61","351","90","0","195","88","71","59","98","38","81","102","74","63","15"],
+"mujeres_2013":["1 332","20","48","342","97","0","155","83","51","57","76","58","99","96","82","52","16"],	
+
+"saldo_mig_INT_2013":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2013":["2 874","4,1","112","0,2","2986","4,3"],	
+
+
+
+
+"mig_INT_2014":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],
+
+"mtz_2014":["2 113","28","44","443","137","0","242","121","99","264","103","60","104","184","164","91","29"],
+"hombres_2014":["1 076","16","22","233","69","0","136","66","48","128","41","29","52","97","79","41","19"],
+"mujeres_2014":["1 037","12","22","210","68","0","106","55","51","136","62","31","52","87","85","50","10"],
+
+"saldo_mig_INT_2014":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2014":["1 894","2,7","406","0,6","2300","3,3"],
+
+
+
+
+"mig_INT_2015":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],
+"mtz_2015":["3 551","86","126","958","338","0","390","187","170","91","214","108","222","236","261","133","31"],
+"hombres_2015":["1 888","50","66","482","197","0","212","118","81","44","114","60","119","130","124","73","18"],
+"mujeres_2015":["1 663","36","60","476","141","0","178","69","89","47","100","48","103","106","137","60","13"],
+
+"saldo_mig_INT_2015":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2015":["3 557","5,1","- 1 370","-1,9","2 187","3,1"],
+
+
+
+
+"mig_INT_2016":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],
+"mtz_2016":["3 764","87","157","1 005","260","0","401","227","160","135","232","106","237","283","278","180","16"],
+"hombres_2016":["1 882","60","71","469","138","0","203","111","92","74","114","43","126","139","139","94","9"],
+"mujeres_2016":["1 882","27","86","536","122","0","198","116","68","61","118","63","111","144","139","86","7"],
+
+"saldo_mig_INT_2016":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2016":["1 253","3,3","-720","-1,9","3 239","4,6"],
+
+
+
+
+"mig_INT_2017":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],
+"mtz_2017":["3 368","64","124","913","310","'0'","315","236","143","96","183","118","231","217","247","146","25"],
+"hombres_2017":["1 755","32","67","471","175","0","157","115","78","47","98","55","119","122","138","69","12"],
+"mujeres_2017":["1 613","32","57","442","135","0","158","121","65","49","85","63","112","95","109","77","13"],
+
+"saldo_mig_INT_2017":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2017":["4 115","5.8","2 493","35"],
+
+
+
+
+"mig_INT_2018":["Total","Pinar del Río","Artemisa","La Habana","Mayabeque","Matanzas","Villa Clara","Cienfuegos","Sancti Spíritus",	
+"Ciego de Ávila","Camagüey","Las Tunas","Holguín","Granma","Santiago de Cuba","Guantánamo","Isla de la Juventud"],
+"mtz_2018":["3 221","53","122","860","269","0","326","159","108","91","168","101","241","284","272","140","27"],
+"hombres_2018":["1 692","24","67","445","146","0","179","85","53","44","89","54","134","153","131","72","16"],
+"mujeres_2018":["1 529","29","55","415","123","0","147","74","55","47","79","47","107","131","141","68","11"],
+
+"saldo_mig_INT_2016":["saldo_migratorio_INTERNO","tasa_mig_int","saldo_migratorio_EXTERNO","tasa_mig_ext","saldo_mig_TOTAL","tasa_mig"],
+"2018":["3 789","5,3","-1 718","-2,4","2 071","2,9"]
+}
