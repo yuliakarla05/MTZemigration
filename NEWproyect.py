@@ -28,7 +28,7 @@ with tab2:
     st.write("Una de las interrogantes de la encuesta fue la siguiente: ¿Te gustaría en un futuro emigrar a otra provincia del país? y en caso negativo ¿A dónde emigrarían los matanceros dentro de su provincia?. En el siguiente gráfico quedan evidenciadas las respuestas.")
 
     #encuestas charts
-    with open("data/encuesta.json",encoding="utf8") as json_data: 
+    with open("https://raw.githubusercontent.com/yuliakarla05/MTZemigration/main/encuesta.json",encoding="utf8") as json_data: 
         data = json.load(json_data)  
 
     encuesta1 = pd.DataFrame(data)
@@ -43,7 +43,7 @@ with tab2:
     fig.update_layout(width=1300,  height=500, title = "Emigración desde Matanzas hacia otras provincias")
     st.plotly_chart(fig)
 
-    with open("data/encuesta2.json",encoding="utf8") as json_data: 
+    with open("https://raw.githubusercontent.com/yuliakarla05/MTZemigration/main/encuesta2.json",encoding="utf8") as json_data: 
         data = json.load(json_data)  
     encuesta2 = pd.DataFrame(data)
     conteo_provincias = encuesta2["¿Emigraría hacia otro lugar dentro de MATANZAS?"].value_counts()
@@ -70,7 +70,7 @@ with tab2:
     st.write("En cuanto al lugar receptor, la llegada de personas jóvenes permite que se ocupen empleos que la población nativa no está dispuesta a hacer, por ser trabajos poco cualificados y mal pagados.")
     st.write("Sin embargo, también hay repercusiones negativas. Si la localidad de origen ya era pobre de por sí, el hecho de perder a personas económicamente activas supone un obstáculo añadido. También, al perderse población se pierden posibilidades de consumo.")
 
-    with open('data/emigracion.json',encoding="utf8") as json_data: 
+    with open('https://raw.githubusercontent.com/yuliakarla05/MTZemigration/main/emigracion.json',encoding="utf8") as json_data: 
         data = json.load(json_data)  
 
     #emigracion mujeres
